@@ -1,6 +1,6 @@
-## Bikeshare
+# Bikeshare
 
-This Python 3 program analyzes US bikeshare data provided by Motivate at https://www.motivateco.com/. Three cities are considered over the first six months of 2017. The user can filter the resulting statistics by city, month, and day.
+This is a command line interface application written in Python 3 that analyzes bikeshare data from three US cities, created as part of the [Data Analyst Nanodegree by Udacity](https://www.udacity.com/course/data-analyst-nanodegree--nd002). The user can filter the summary statistics by city, month, and day.
 
-#### Interactive terminal application that explores US bikesharing data
-#### ![](demo/terminal.jpg)
+#### An interactive terminal written in Python 3.
+![](demo/terminal.jpg)
